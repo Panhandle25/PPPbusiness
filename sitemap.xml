@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc><lastmod>2026-11-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://www.example.com/about/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.example.com/reviews/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.example.com/contact/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.example.com/services/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.example.com/services/24-7-emergency-plumbing/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/water-heater-installation/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/leak-repair/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/plumbing-repair/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/fixture-replacement/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/fixture-replacement/tub/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/fixture-replacement/sink/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/fixture-replacement/faucet/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/fixture-replacement/garbage-disposal/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/services/fixture-replacement/toilet/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/service-areas/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.example.com/service-areas/navarre/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/service-areas/gulf-breeze/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/service-areas/destin/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/service-areas/fort-walton-beach/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://www.example.com/service-areas/miramar-beach/</loc><lastmod>2026-11-17</lastmod><priority>0.6</priority></url>
+</urlset>
