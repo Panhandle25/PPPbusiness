@@ -43,3 +43,4 @@ footer a{display:block;text-decoration:none;padding:2px 0}footer a:hover{color:v
 .note{font-size:.85rem;color:var(--mute);margin-top:20px}
 @media(max-width:720px){.hero .wrap{grid-template-columns:1fr}.hero img{max-width:180px;order:-1}.call span{display:none}.btn.ghost{margin:10px 0 0}.brand small{display:none}}
 .crumbs{font-size:.9rem;color:var(--mute);margin-bottom:14px}.crumbs a{text-decoration:none;color:var(--blue)}.dd a.sub{padding-left:34px;font-size:.92rem;color:#bcd6f3}.btn.ghost2{background:none;color:var(--ink);border:2px solid var(--blue);margin-left:6px}.areas{margin-top:8px}
+.prose{max-width:40em;margin-top:28px}.prose p{margin:0 0 1em}
