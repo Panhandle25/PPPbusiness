@@ -1,8 +1,7 @@
 // Generates the static site (one real HTML file per URL). Run: node build.js
 const fs = require('fs'), path = require('path'), vm = require('vm');
-const SITE = 'https://www.example.com'; // <-- CHANGE to your real domain (used in canonical tags + sitemap)
+const SITE = 'https://www.panhandleplumbingandpools.com'; // <-- CHANGE to your real domain (used in canonical tags + sitemap)
 const TODAY = new Date().toISOString().slice(0, 10);
-
 const ctx = { document: { getElementById: () => null }, LOGO: '/assets/logo.png' };
 vm.createContext(ctx);
 vm.runInContext(fs.readFileSync(path.join(__dirname, 'src/data.js'), 'utf8'), ctx);
